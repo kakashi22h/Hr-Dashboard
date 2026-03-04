@@ -10,6 +10,8 @@ Inspired by a tutorial from [Data with Baara (Baraa Khatib Salkini)](https://www
 
 ### 1️⃣ HR Summary View
 
+![HR Overview](https://github.com/user-attachments/assets/58378a13-383f-4c31-b0aa-651abd4f03fb)
+
 
 This dashboard provides a high-level overview of key HR metrics:
 
@@ -81,12 +83,7 @@ HR-Dashboard-Tableau/
 │   └── HR Overview.png            # Visuals of dashboard
 ├── README.md                      # Project overview and instructions
 
-```
-
-## 🌐 Live Dashboard
-
-
----
+``
 
 
 ## 🙏 Credits
@@ -100,8 +97,8 @@ Special thanks to **Baraa Khatib Salkini** for the tutorial and inspiration.
 ## 📬 Contact
 
 **Deepak Dhanoliya**  
-📧 itsnishant2@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/nishant-shrivastav/))
+📧 itsnishant2@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/nishant-shrivastava-6b4842220/))
 
 ---
 
